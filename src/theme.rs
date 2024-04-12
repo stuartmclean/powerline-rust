@@ -57,7 +57,7 @@ impl GitScheme for SimpleTheme {
     const GIT_NOTSTAGED_FG: Color = Color(15);
     const GIT_REPO_CLEAN_BG: Color = Color(148);
     const GIT_REPO_CLEAN_FG: Color = Color(0);
-    const GIT_REPO_DIRTY_BG: Color = Color(160);
+    const GIT_REPO_DIRTY_BG: Color = Color(130);
     const GIT_REPO_DIRTY_FG: Color = Color(15);
     const GIT_STAGED_BG: Color = Color(22);
     const GIT_STAGED_FG: Color = Color(15);
