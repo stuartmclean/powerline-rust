@@ -24,6 +24,8 @@ cd powerline-rust
 cargo install --path .
 # zsh shell 
 cargo install --path . --no-default-features --features=zsh-shell,libgit
+# my custom zsh shell
+cargo install --path . --no-default-features --features=zsh-shell,libgit,time
 # fish shell
 cargo install --path . --no-default-features --features=bare-shell,libgit
 ```
